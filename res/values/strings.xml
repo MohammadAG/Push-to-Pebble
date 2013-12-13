@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Push to Pebble</string>
+    <string name="pebble_not_connected">Pebble not connected</string>
+    <string name="pebble_not_connected_message">No Pebble connected or Pebble app not installed. This text will not be shared.</string>
+
+</resources>
